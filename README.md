@@ -1,7 +1,9 @@
 # chuqk
 
 <p align="center">
-  <img src="./grass.svg" alt="Claude Code grass" width="760">
+  <a href="https://chuqk.github.io/cc-grass/" target="_blank" rel="noopener noreferrer">
+    <img src="./grass.svg" alt="Claude Code grass — click to open the interactive version" width="760">
+  </a>
 </p>
 
 <p align="center">
