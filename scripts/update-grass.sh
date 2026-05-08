@@ -9,5 +9,5 @@ if git diff --cached --quiet; then
   exit 0
 fi
 
-git commit -m "auto: update grass"
+git -c user.name=cc-grass-bot -c user.email=cc-grass-bot@noreply.invalid commit -m "auto: update grass"
 git push
