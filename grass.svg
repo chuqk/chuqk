@@ -325,7 +325,7 @@
 <rect x="637" y="117" width="10" height="10" rx="2" ry="2" fill="#ff9c47" stroke="rgba(255,255,255,0.05)" data-date="2026-05-20" data-value="410359847" data-level="4"><title>410.4m tokens on May 20th.</title></rect>
 <rect x="637" y="130" width="10" height="10" rx="2" ry="2" fill="#ff9c47" stroke="rgba(255,255,255,0.05)" data-date="2026-05-21" data-value="552128474" data-level="4"><title>552.1m tokens on May 21st.</title></rect>
 <rect x="637" y="143" width="10" height="10" rx="2" ry="2" fill="#d96a14" stroke="rgba(255,255,255,0.05)" data-date="2026-05-22" data-value="217393822" data-level="3"><title>217.4m tokens on May 22nd.</title></rect>
-<rect x="637" y="156" width="10" height="10" rx="2" ry="2" fill="#ff9c47" stroke="rgba(255,255,255,0.05)" data-date="2026-05-23" data-value="377391612" data-level="4"><title>377.4m tokens on May 23rd.</title></rect>
+<rect x="637" y="156" width="10" height="10" rx="2" ry="2" fill="#d96a14" stroke="rgba(255,255,255,0.05)" data-date="2026-05-23" data-value="377391612" data-level="3"><title>377.4m tokens on May 23rd.</title></rect>
 <rect x="650" y="78" width="10" height="10" rx="2" ry="2" fill="#d96a14" stroke="rgba(255,255,255,0.05)" data-date="2026-05-24" data-value="192902328" data-level="3"><title>192.9m tokens on May 24th.</title></rect>
 <rect x="650" y="91" width="10" height="10" rx="2" ry="2" fill="#ff9c47" stroke="rgba(255,255,255,0.05)" data-date="2026-05-25" data-value="407876354" data-level="4"><title>407.9m tokens on May 25th.</title></rect>
 <rect x="650" y="104" width="10" height="10" rx="2" ry="2" fill="#d96a14" stroke="rgba(255,255,255,0.05)" data-date="2026-05-26" data-value="309656652" data-level="3"><title>309.7m tokens on May 26th.</title></rect>
@@ -371,7 +371,7 @@
 <rect x="728" y="78" width="10" height="10" rx="2" ry="2" fill="#d96a14" stroke="rgba(255,255,255,0.05)" data-date="2026-07-05" data-value="182098017" data-level="3"><title>182.1m tokens on July 5th.</title></rect>
 <rect x="728" y="91" width="10" height="10" rx="2" ry="2" fill="#ff9c47" stroke="rgba(255,255,255,0.05)" data-date="2026-07-06" data-value="448104248" data-level="4"><title>448.1m tokens on July 6th.</title></rect>
 <rect x="728" y="104" width="10" height="10" rx="2" ry="2" fill="#ff9c47" stroke="rgba(255,255,255,0.05)" data-date="2026-07-07" data-value="830827841" data-level="4"><title>830.8m tokens on July 7th.</title></rect>
-<rect x="728" y="117" width="10" height="10" rx="2" ry="2" fill="#d96a14" stroke="rgba(255,255,255,0.05)" data-date="2026-07-08" data-value="376232031" data-level="3"><title>376.2m tokens on July 8th.</title></rect>
+<rect x="728" y="117" width="10" height="10" rx="2" ry="2" fill="#ff9c47" stroke="rgba(255,255,255,0.05)" data-date="2026-07-08" data-value="380937257" data-level="4"><title>380.9m tokens on July 8th.</title></rect>
 
     <text x="638" y="182" fill="#7d8590" font-size="12" text-anchor="end">Less</text>
     <rect x="644" y="173" width="10" height="10" rx="2" ry="2" fill="#161b22" stroke="rgba(255,255,255,0.05)"/><rect x="657" y="173" width="10" height="10" rx="2" ry="2" fill="#4a1d05" stroke="rgba(255,255,255,0.05)"/><rect x="670" y="173" width="10" height="10" rx="2" ry="2" fill="#913a05" stroke="rgba(255,255,255,0.05)"/><rect x="683" y="173" width="10" height="10" rx="2" ry="2" fill="#d96a14" stroke="rgba(255,255,255,0.05)"/><rect x="696" y="173" width="10" height="10" rx="2" ry="2" fill="#ff9c47" stroke="rgba(255,255,255,0.05)"/>
