@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="762" height="220" viewBox="0 0 762 220" font-family='-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif'>
 <rect width="762" height="220" fill="#0d1117"/>
 <rect x="8" y="40" width="746" height="172" rx="6" ry="6" fill="#0d1117" stroke="#30363d"/>
-<text x="8" y="26" fill="#c9d1d9" font-size="14" font-weight="400">35.4b tokens in the last year</text>
+<text x="8" y="26" fill="#c9d1d9" font-size="14" font-weight="400">35.5b tokens in the last year</text>
 <text x="52" y="70" fill="#7d8590" font-size="12">Jul</text><text x="104" y="70" fill="#7d8590" font-size="12">Aug</text><text x="169" y="70" fill="#7d8590" font-size="12">Sep</text><text x="221" y="70" fill="#7d8590" font-size="12">Oct</text><text x="273" y="70" fill="#7d8590" font-size="12">Nov</text><text x="338" y="70" fill="#7d8590" font-size="12">Dec</text><text x="390" y="70" fill="#7d8590" font-size="12">Jan</text><text x="442" y="70" fill="#7d8590" font-size="12">Feb</text><text x="494" y="70" fill="#7d8590" font-size="12">Mar</text><text x="559" y="70" fill="#7d8590" font-size="12">Apr</text><text x="611" y="70" fill="#7d8590" font-size="12">May</text><text x="676" y="70" fill="#7d8590" font-size="12">Jun</text><text x="728" y="70" fill="#7d8590" font-size="12">Jul</text>
 <text x="46" y="100" fill="#7d8590" font-size="12" text-anchor="end">Mon</text><text x="46" y="126" fill="#7d8590" font-size="12" text-anchor="end">Wed</text><text x="46" y="152" fill="#7d8590" font-size="12" text-anchor="end">Fri</text>
 <rect x="52" y="78" width="10" height="10" rx="2" ry="2" fill="#161b22" stroke="rgba(255,255,255,0.05)" data-date="2025-07-06" data-value="0" data-level="0"><title>No tokens on July 6th.</title></rect>
@@ -329,7 +329,7 @@
 <rect x="650" y="78" width="10" height="10" rx="2" ry="2" fill="#d96a14" stroke="rgba(255,255,255,0.05)" data-date="2026-05-24" data-value="192902328" data-level="3"><title>192.9m tokens on May 24th.</title></rect>
 <rect x="650" y="91" width="10" height="10" rx="2" ry="2" fill="#ff9c47" stroke="rgba(255,255,255,0.05)" data-date="2026-05-25" data-value="407876354" data-level="4"><title>407.9m tokens on May 25th.</title></rect>
 <rect x="650" y="104" width="10" height="10" rx="2" ry="2" fill="#d96a14" stroke="rgba(255,255,255,0.05)" data-date="2026-05-26" data-value="309656652" data-level="3"><title>309.7m tokens on May 26th.</title></rect>
-<rect x="650" y="117" width="10" height="10" rx="2" ry="2" fill="#ff9c47" stroke="rgba(255,255,255,0.05)" data-date="2026-05-27" data-value="404401290" data-level="4"><title>404.4m tokens on May 27th.</title></rect>
+<rect x="650" y="117" width="10" height="10" rx="2" ry="2" fill="#d96a14" stroke="rgba(255,255,255,0.05)" data-date="2026-05-27" data-value="404401290" data-level="3"><title>404.4m tokens on May 27th.</title></rect>
 <rect x="650" y="130" width="10" height="10" rx="2" ry="2" fill="#d96a14" stroke="rgba(255,255,255,0.05)" data-date="2026-05-28" data-value="136236402" data-level="3"><title>136.2m tokens on May 28th.</title></rect>
 <rect x="650" y="143" width="10" height="10" rx="2" ry="2" fill="#d96a14" stroke="rgba(255,255,255,0.05)" data-date="2026-05-29" data-value="148609121" data-level="3"><title>148.6m tokens on May 29th.</title></rect>
 <rect x="650" y="156" width="10" height="10" rx="2" ry="2" fill="#d96a14" stroke="rgba(255,255,255,0.05)" data-date="2026-05-30" data-value="277278609" data-level="3"><title>277.3m tokens on May 30th.</title></rect>
@@ -374,7 +374,7 @@
 <rect x="728" y="117" width="10" height="10" rx="2" ry="2" fill="#ff9c47" stroke="rgba(255,255,255,0.05)" data-date="2026-07-08" data-value="452235614" data-level="4"><title>452.2m tokens on July 8th.</title></rect>
 <rect x="728" y="130" width="10" height="10" rx="2" ry="2" fill="#d96a14" stroke="rgba(255,255,255,0.05)" data-date="2026-07-09" data-value="371654191" data-level="3"><title>371.7m tokens on July 9th.</title></rect>
 <rect x="728" y="143" width="10" height="10" rx="2" ry="2" fill="#ff9c47" stroke="rgba(255,255,255,0.05)" data-date="2026-07-10" data-value="808372696" data-level="4"><title>808.4m tokens on July 10th.</title></rect>
-<rect x="728" y="156" width="10" height="10" rx="2" ry="2" fill="#d96a14" stroke="rgba(255,255,255,0.05)" data-date="2026-07-11" data-value="355871954" data-level="3"><title>355.9m tokens on July 11th.</title></rect>
+<rect x="728" y="156" width="10" height="10" rx="2" ry="2" fill="#ff9c47" stroke="rgba(255,255,255,0.05)" data-date="2026-07-11" data-value="424333850" data-level="4"><title>424.3m tokens on July 11th.</title></rect>
 
     <text x="638" y="182" fill="#7d8590" font-size="12" text-anchor="end">Less</text>
     <rect x="644" y="173" width="10" height="10" rx="2" ry="2" fill="#161b22" stroke="rgba(255,255,255,0.05)"/><rect x="657" y="173" width="10" height="10" rx="2" ry="2" fill="#4a1d05" stroke="rgba(255,255,255,0.05)"/><rect x="670" y="173" width="10" height="10" rx="2" ry="2" fill="#913a05" stroke="rgba(255,255,255,0.05)"/><rect x="683" y="173" width="10" height="10" rx="2" ry="2" fill="#d96a14" stroke="rgba(255,255,255,0.05)"/><rect x="696" y="173" width="10" height="10" rx="2" ry="2" fill="#ff9c47" stroke="rgba(255,255,255,0.05)"/>
