@@ -2,7 +2,7 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
-npx -y cc-grass@latest -o grass.svg
+npx -y cc-grass@latest --archive-catalog "$HOME/dev/daimon/senmu-runs/session-retention/catalog.jsonl" -o grass.svg
 
 git add grass.svg
 if git diff --cached --quiet; then
